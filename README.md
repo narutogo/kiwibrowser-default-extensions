@@ -1,0 +1,1 @@
+# kiwibrowser-default-extensions
